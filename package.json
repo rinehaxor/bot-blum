@@ -1,0 +1,16 @@
+{
+  "name": "bot-blum",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000o\u0000t\u0000-\u0000b\u0000l\u0000u\u0000m\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.1",
+    "moment": "^2.30.1",
+    "readline-sync": "^1.4.10"
+  }
+}
